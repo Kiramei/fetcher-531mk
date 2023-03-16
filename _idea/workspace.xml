@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="QuickDownloader" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30ad5a9a-0569-45e4-87dc-26c1446576ba" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kasTKhRKhQ3yUsacUEV145Pid6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/kiramei/fav.ico" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\文件" />
+      <recent name="E:\Workspace\QuickDownloader\src\com\lu" />
+      <recent name="E:\Workspace\QuickDownloader" />
+      <recent name="E:\Workspace\QuickDownloader\css" />
+      <recent name="E:\Workspace\QuickDownloader\lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Workspace\QuickDownloader\lib" />
+      <recent name="E:\文件" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainWin">
+    <configuration name="ButtonBackgroundChanger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kiramei.ButtonBackgroundChanger" />
+      <module name="QuickDownloader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lu.Main" />
+      <module name="QuickDownloader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kiramei.MainWin" />
+      <module name="QuickDownloader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lu.MainWindow" />
+      <module name="QuickDownloader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="QuickDownloader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainWin" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ButtonBackgroundChanger" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainWindow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30ad5a9a-0569-45e4-87dc-26c1446576ba" name="默认更改列表" comment="" />
+      <created>1605950042352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605950042352</updated>
+      <workItem from="1605950045233" duration="14146000" />
+      <workItem from="1606003900234" duration="28725000" />
+      <workItem from="1606036723759" duration="661000" />
+      <workItem from="1606045057107" duration="659000" />
+      <workItem from="1606131316795" duration="2268000" />
+      <workItem from="1606224263103" duration="30082000" />
+      <workItem from="1606522048025" duration="34676000" />
+      <workItem from="1606610842242" duration="17714000" />
+      <workItem from="1606630333309" duration="13092000" />
+      <workItem from="1606643703096" duration="20186000" />
+      <workItem from="1607133717798" duration="3111000" />
+      <workItem from="1607137210886" duration="2636000" />
+      <workItem from="1607263456479" duration="268000" />
+      <workItem from="1608032136042" duration="640000" />
+      <workItem from="1608280908006" duration="2310000" />
+      <workItem from="1608369350804" duration="723000" />
+      <workItem from="1608384265592" duration="497000" />
+      <workItem from="1608441058578" duration="4313000" />
+      <workItem from="1608473453943" duration="20946000" />
+      <workItem from="1608946223157" duration="1078000" />
+      <workItem from="1608957748958" duration="1638000" />
+      <workItem from="1609046618554" duration="8123000" />
+      <workItem from="1609162913865" duration="15564000" />
+      <workItem from="1609416073819" duration="1325000" />
+      <workItem from="1609496712213" duration="6190000" />
+      <workItem from="1609560004773" duration="11594000" />
+      <workItem from="1609682480548" duration="1807000" />
+      <workItem from="1609766789593" duration="3615000" />
+      <workItem from="1609846877862" duration="569000" />
+      <workItem from="1609942297368" duration="3827000" />
+      <workItem from="1610026443908" duration="599000" />
+      <workItem from="1610195442285" duration="2336000" />
+      <workItem from="1610250689723" duration="18983000" />
+      <workItem from="1610327105615" duration="1532000" />
+      <workItem from="1610330057923" duration="1644000" />
+      <workItem from="1610536835394" duration="3956000" />
+      <workItem from="1610594335195" duration="21687000" />
+      <workItem from="1610703294619" duration="4664000" />
+      <workItem from="1610717586877" duration="1620000" />
+      <workItem from="1610758284136" duration="1205000" />
+      <workItem from="1610774363384" duration="599000" />
+      <workItem from="1610777212573" duration="2561000" />
+      <workItem from="1610792923719" duration="2919000" />
+      <workItem from="1610873766276" duration="761000" />
+      <workItem from="1610882834721" duration="842000" />
+      <workItem from="1610886963965" duration="612000" />
+      <workItem from="1610917441346" duration="1211000" />
+      <workItem from="1611291449773" duration="3137000" />
+      <workItem from="1611307956742" duration="669000" />
+      <workItem from="1611312553045" duration="110000" />
+      <workItem from="1611411874099" duration="909000" />
+      <workItem from="1611634089661" duration="4484000" />
+      <workItem from="1611648377963" duration="26000" />
+      <workItem from="1614598360011" duration="650000" />
+      <workItem from="1615801724473" duration="1484000" />
+      <workItem from="1615904349696" duration="39000" />
+      <workItem from="1615905482713" duration="675000" />
+      <workItem from="1615973130912" duration="2060000" />
+      <workItem from="1616143690028" duration="1297000" />
+      <workItem from="1616151935377" duration="316000" />
+      <workItem from="1616152357872" duration="647000" />
+      <workItem from="1626524566708" duration="54000" />
+      <workItem from="1626524650080" duration="9000" />
+      <workItem from="1626524682556" duration="260000" />
+      <workItem from="1626524963858" duration="1297000" />
+      <workItem from="1627109518363" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this" />
+        <watch expression="doc" />
+        <watch expression="tem.get(6)" />
+        <watch expression="tem.get(6)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
