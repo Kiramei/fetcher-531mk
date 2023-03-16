@@ -1,2 +1,2 @@
 # java-531mk-fetcher
- This project is to fetch the comics on 531mk.com.
+## ! ! This project is not available since the site of 531mk.com, mxsan.com are not accessible. ! !

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:gravity="center" android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/progress_ll_head" android:layout_width="160.0dip" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/progress_iv_thumbnail" android:visibility="gone" android:layout_width="160.0dip" android:layout_height="90.0dip" />
-    <TextView android:textSize="16.0sp" android:textColor="@color/white" android:id="@id/progress_tv_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" />
-    <ProgressBar android:id="@id/progress_pb_bar" android:layout_width="100.0dip" android:layout_height="2.0dip" android:layout_marginTop="8.0dip" android:max="100" android:progress="0" android:progressDrawable="@drawable/laylist_super_vod_video_progress" android:layout_below="@id/progress_ll_head" style="@style/AppProgressBarStyle" />
-</LinearLayout>
